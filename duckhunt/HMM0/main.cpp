@@ -1,6 +1,5 @@
 //
 //  main.cpp
-//  HelloWorld
 //
 //  Created by Héctor Esteban Cabezos on 15/1/19.
 //  Copyright © 2019 Héctor Esteban Cabezos. All rights reserved.
@@ -47,7 +46,6 @@ vector<float> multiply_matrices(vector<vector<float>> first, vector<float> secon
 }
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
     string trans_matrix;
     string emis_matrix;
     string init_state_prob;
